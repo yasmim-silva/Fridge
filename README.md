@@ -24,11 +24,11 @@ API REST para gerenciamento de itens da geladeira, com foco em facilitar a lista
 
 Pré-requisitos: Java 17+ e Maven instalados.
 
-git clone https://github.com/seu-usuario/fridge.git
+1. git clone https://github.com/seu-usuario/fridge.git
 
-cd fridge
+2. cd fridge
 
-./mvnw spring-boot:run
+3. ./mvnw spring-boot:run
 
 
 📖 Documentação da API
